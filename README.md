@@ -23,9 +23,10 @@ Every project here started as a lesson and turned into something I actually buil
 
 ## 📂 Projects
 
-| # | Project | File | Description | Date Added |
-|---|---------|------|-------------|------------|
-| 1 | ✊ Rock Paper Scissors | [`rock_paper_scissors.py`](rock_paper_scissors.py) | A classic terminal-based Rock Paper Scissors game. Play against the computer with input validation and replay support. | 2026-03-28 |
+| #   | Project                | File                                               | Description                                                                                                                 | Date Added |
+| --- | ---------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1   | ✊ Rock Paper Scissors | [`rock_paper_scissors.py`](rock_paper_scissors.py) | A classic terminal-based Rock Paper Scissors game. Play against the computer with input validation and replay support.      | 2026-03-28 |
+| 2   | 🔐 Password Generator  | [`password_generator.py`](password_generator.py)   | A beginner-friendly interactive password generator where you choose length and character types (letters, numbers, symbols). | 2026-03-29 |
 
 > More projects coming soon as I keep learning! 👀
 
@@ -37,6 +38,10 @@ Make sure you have **Python 3** installed, then run any project from your termin
 
 ```bash
 python rock_paper_scissors.py
+```
+
+```bash
+python password_generator.py
 ```
 
 ---
