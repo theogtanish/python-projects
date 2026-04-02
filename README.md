@@ -48,7 +48,7 @@ python password_generator.py
 
 ## 📚 Learning Path
 
-- 📍 Currently learning with **[Codedex](https://www.codedex.io/)**
+- 📍 Currently learning with **[CS50p](https://cs50.harvard.edu/python/)**
 - Topics covered so far: Python basics, functions, loops, randomness, input handling
 
 ---
