@@ -3,11 +3,11 @@
 # 🐍 Python Projects
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Learning-Codedex-orange?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-CS50p-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 > A collection of Python projects I've built while learning to code. 🚀  
-> Currently learning through **[Codedex](https://www.codedex.io/)** — turning lessons into real projects!
+> Currently learning through **[CS50p]((https://cs50.harvard.edu/python/))** — turning lessons into real projects!
 
 </div>
 
