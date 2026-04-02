@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 > A collection of Python projects I've built while learning to code. 🚀  
-> Currently learning through **[CS50p]((https://cs50.harvard.edu/python/))** — turning lessons into real projects!
+> Currently learning through **[CS50p](https://cs50.harvard.edu/python/)** — turning lessons into real projects!
 
 </div>
 
